@@ -12,7 +12,7 @@ else:
     print(f"The second number ({number2}) is greater than the first number ({number1})!")
 
 
-#This is the first form, but also make using thernary:
+#This is the first form, but also make using ternary:
 
 
 if number1 == number2:
