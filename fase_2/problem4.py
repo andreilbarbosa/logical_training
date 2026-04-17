@@ -1,3 +1,5 @@
+#The fourty problem is the count until the choose number!
+
 num: int = input("Enter the number:")
 
 for cont in range(int(num)):
